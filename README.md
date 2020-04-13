@@ -1,7 +1,6 @@
 # lab05
 Part of a portfolio project and deploying a server
 
-
 # Lab 05: Deploy and Extend Your Portfolio
 
 ## Overview
