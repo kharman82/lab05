@@ -1,29 +1,36 @@
 # lab05
 Part of a portfolio project and deploying a server
 
-# Lab 05: Deploy and Extend Your Portfolio
+**Live Deployed Site**
+https://ken-harman-portfolio.herokuapp.com/ 
 
-## Overview
+**Collaborators**
+Kent Sheats, Brandon Gibbs
 
-You will be adding new features to the portfolio project from lab 4. Work in the same repository on a new branch, remembering to add, commit, and push regularly.
+**Resources**  
+Template: html5up.net  
 
-Additionally, you'll be deploying your portfolio to [Heroku.com](http://www.heroku.com) using the `server` code provided as the basis for your deployment
+**Time Est.**
+Number and name of feature: Feature 1 Deployment  
 
-When you have completed all of your features, make sure that your deployed application reflects the changes.
+Estimate of time needed to complete: 1.5 
 
-## Time Estimate
+Start time: 9:15 am  
 
-For each of the features listed below, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:
+Finish time: 10:30 am    
 
-```
-Number and name of feature: 
+Actual time needed to complete: 1.5  
 
-Estimate of time needed to complete: _____
+_____________________________________
 
-Start time: _____
+Number and name of feature: Feature 2 Functionality  
 
-Finish time: _____
+Estimate of time needed to complete: 1.5 
 
-Actual time needed to complete: _____
-```
+Start time: 10:50 am  
+
+Finish time:  pm    
+
+Actual time needed to complete:  
+
 
